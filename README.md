@@ -8,7 +8,7 @@ it more of a fun activity for the website user to take part in rather than click
 From a through analysis of every day websites we have identified one thing in common, most of the websites just use traditional means of 
 having a user select a language from a dropdown box. As we can see below the traditionl means is very boring:
 
-[[http://www.tech-recipes.com/wp-content/uploads/2016/07/Facebook-Settings-Language-List.png|alt=boring]]
+![alt text](http://www.tech-recipes.com/wp-content/uploads/2016/07/Facebook-Settings-Language-List.png)
 
 
 ## Goals for this project
@@ -22,6 +22,7 @@ will serve:
 - The website will make use of proceed notification box to verify the users choice
 - A latter addition will be sound integration which will ask the user a question in the language and they have to type an answer before proceeding
 
+![alt text](http://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/screen_shot_2015-03-08_at_8.53.06_pm.png?itok=-k7MA6Ul&resize=1100x1100)
 
 ## Contributing
 Please submit a issue of what you would like to fix along with the details we will personally give permssion for you to edit the code.
